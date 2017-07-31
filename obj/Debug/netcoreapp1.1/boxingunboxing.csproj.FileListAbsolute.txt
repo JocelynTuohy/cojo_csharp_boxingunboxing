@@ -1,0 +1,8 @@
+/home/hermitwife/cojo/dotnetcore/fundamentals/boxingunboxing/bin/Debug/netcoreapp1.1/boxingunboxing.deps.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/boxingunboxing/bin/Debug/netcoreapp1.1/boxingunboxing.runtimeconfig.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/boxingunboxing/bin/Debug/netcoreapp1.1/boxingunboxing.runtimeconfig.dev.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/boxingunboxing/bin/Debug/netcoreapp1.1/boxingunboxing.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/boxingunboxing/bin/Debug/netcoreapp1.1/boxingunboxing.pdb
+/home/hermitwife/cojo/dotnetcore/fundamentals/boxingunboxing/obj/Debug/netcoreapp1.1/boxingunboxing.AssemblyInfo.cs
+/home/hermitwife/cojo/dotnetcore/fundamentals/boxingunboxing/obj/Debug/netcoreapp1.1/boxingunboxing.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/boxingunboxing/obj/Debug/netcoreapp1.1/boxingunboxing.pdb
